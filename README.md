@@ -1,3 +1,5 @@
 # Essbares-Dornbirn
 
-![Preview](preview.png)
+## Vorschau
+
+<img src="preview.png" width="300" />
